@@ -1,5 +1,5 @@
-# One Month Rails
+# Pinterest Clone
 
-This is the pinteresting sample application for [*One Month Rails*](http://onemonthrails.com)
+Built in Ruby on Rails.
 
 by [Dean Palm]
