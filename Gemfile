@@ -19,6 +19,10 @@ gem 'will_paginate-bootstrap'
 
 group :development, :test do
 	gem 'sqlite3'
+	gem 'rspec'
+	gem 'rspec-rails'
+	gem 'autotest'
+	gem 'autotest-standalone'
 end
 
 group :production do
